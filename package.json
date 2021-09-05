@@ -1,0 +1,30 @@
+{
+  "name": "Tokens-Gen",
+  "version": "1.0.0",
+  "description": "A token gen by Nelectrons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nelectrons/Discord-Token-Generator"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nelectrons/Discord-Token-Generator"
+  },
+  "homepage": "https://github.com/Nelectrons/Discord-Token-Generator",
+  "dependencies": {
+    "@cliqz/adblocker-puppeteer": "^1.22.2",
+    "cross-fetch": "^3.1.4",
+    "i": "^0.3.6",
+    "npm": "^7.19.1",
+    "puppeteer": "^10.1.0",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-recaptcha": "^3.4.0",
+    "puppeteer-extra-plugin-stealth": "^2.7.8",
+    "unique-names-generator": "^4.5.0"
+  }
+}
