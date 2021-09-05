@@ -13,7 +13,7 @@
   const { Console } = require('console')
 
   // Settings
-  const captchakey = 'edc5b0ca85c1d71dd35b66696ed4b48c'
+  const captchakey = ''
   const PROXY_ADDR = ''
   const PROXY_USERNAME = ''
   const PROXY_PASSWORD = ''
