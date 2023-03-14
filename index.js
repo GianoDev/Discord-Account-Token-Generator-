@@ -69,7 +69,7 @@
   }
 
   async function click_date(page, name, min, max) {
-    var i = await page.$('[class*=input' + name + "]");
+    var i = await page.$('[aria-label="'+name+'"]');
     await i.click();
     var r = Math.floor(Math.random() * (max - min + 1)) + min;
 
