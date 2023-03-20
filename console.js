@@ -1,2 +1,3 @@
 // test
-console.log("discord token gen")
+console.log("discord gen")
+console.log("token")
